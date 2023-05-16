@@ -45,7 +45,7 @@ section{
 section.normal{
     background-color: rgb(252, 231, 231);
     color: black;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
 }
 
 section.imagem{
@@ -54,6 +54,7 @@ section.imagem{
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow:2px 2px 4px black;
 }
 
 section.imagem p {
